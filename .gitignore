@@ -1,0 +1,17 @@
+# Emacs
+*~
+.#*
+\#*\#
+TAGS
+
+# Mac
+.DS_Store
+*.icloud
+
+# Git needs to stay out of .obsidian
+.obsidian
+Clippings
+
+# And obsidian needs to stay out of .git, but that is done in
+# obsidian->settings->Files and links->Excluded files OR by
+# moving the .git repo directory outside of the workspace
